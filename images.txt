@@ -1,6 +1,6 @@
 # 支持指定架构
 # --platform=linux/amd64
 nginx
-hub.docker.com/r/ripencc/rpki-validator-3-docker
+ripencc/rpki-validator-3-docker
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
