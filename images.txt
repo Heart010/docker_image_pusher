@@ -22,7 +22,7 @@ instantbox/instantbox-frontend:latest
 instantbox/cron:latest
 instantbox/centos
 instantbox/ubuntu
-instantbox/archlinux
+# instantbox/archlinux
 instantbox/debian
 instantbox/fedora
 instantbox/alpine
