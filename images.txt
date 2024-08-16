@@ -1,13 +1,13 @@
 # 支持指定架构
 # --platform=linux/amd64
-nginx
-ripencc/rpki-validator-3-docker
-cloudflare/octorpki
-mariadb:10.6
-kodcloud/kodbox
-redis:alpine
-instantbox/instantbox:latest
-instantbox/instantbox-frontend:latest
-instantbox/cron:latest
+# nginx
+# ripencc/rpki-validator-3-docker
+# cloudflare/octorpki
+# mariadb:10.6
+# kodcloud/kodbox
+# redis:alpine
+# instantbox/instantbox:latest
+# instantbox/instantbox-frontend:latest
+# instantbox/cron:latest
 #支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
+# k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
