@@ -9,5 +9,11 @@
 # instantbox/instantbox:latest
 # instantbox/instantbox-frontend:latest
 # instantbox/cron:latest
+centos
+ubuntu
+archLinux
+debian
+fedora
+alpine
 #支持私库
 # k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
