@@ -24,17 +24,17 @@
 
 # instantbox/archlinux
 
-instantbox/centos:6.10
-instantbox/centos:7
-instantbox/centos:8
-instantbox/ubuntu:14.04
-instantbox/ubuntu:16.04
-instantbox/ubuntu:18.04
-instantbox/ubuntu:20.04
-instantbox/debian:jessie
-instantbox/debian:stretch
-instantbox/debian:buster
-instantbox/fedora:30
-instantbox/fedora:31
+# instantbox/centos:6.10
+# instantbox/centos:7
+# instantbox/centos:8
+# instantbox/ubuntu:14.04
+# instantbox/ubuntu:16.04
+# instantbox/ubuntu:18.04
+# instantbox/ubuntu:20.04
+# instantbox/debian:jessie
+# instantbox/debian:stretch
+# instantbox/debian:buster
+# instantbox/fedora:30
+# instantbox/fedora:31
 #支持私库
 # k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
