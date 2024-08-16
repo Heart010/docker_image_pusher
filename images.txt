@@ -11,7 +11,7 @@
 # instantbox/cron:latest
 centos
 ubuntu
-archLinux
+archlinux
 debian
 fedora
 alpine
