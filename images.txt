@@ -16,6 +16,9 @@
 # fedora
 # alpine
 
+instantbox/instantbox:latest
+instantbox/instantbox-frontend:latest
+instantbox/cron:latest
 instantbox/centos
 instantbox/ubuntu
 instantbox/archlinux
