@@ -16,6 +16,7 @@
 # fedora
 # alpine
 
+
 instantbox/instantbox:latest
 instantbox/instantbox-frontend:latest
 instantbox/cron:latest
