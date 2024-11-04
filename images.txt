@@ -38,4 +38,8 @@
 # instantbox/fedora:31
 #支持私库
 # k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-wiznote/wizserver:latest
+# wiznote/wizserver:latest
+mongo:7.0.4
+redis:7.0.11
+autumn27/scopesentry:latest
+autumn27/scopesentry-scan:latest
